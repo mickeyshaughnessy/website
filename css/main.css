@@ -121,8 +121,14 @@ PAGE: PORTFOLIO
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
-  color: #EE0000;
+  /*color: #EE0000;*/
   /*color: #bdc3c7;*/
+  color: #2F4F4F;
+}
+
+#gallery li a p.head {
+  font-weight: bold;
+  color: #000;
 }
 
 /***********
